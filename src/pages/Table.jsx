@@ -1,5 +1,4 @@
 import React from 'react'
-import * as R from 'ramda'
 import { makeStyles } from '@material-ui/core/styles'
 import { Box,TextField, Link, Typography, Card, CardContent, Grid, CircularProgress } from '@material-ui/core'
 import {ApiPromise, WsProvider } from '@polkadot/api'
